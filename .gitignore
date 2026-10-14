@@ -1,0 +1,28 @@
+/data/
+
+# Media files
+*.avi
+*.bmp
+*.flv
+*.gif
+*.jpeg
+*.jpg
+*.m4v
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.mpeg
+*.mpg
+*.png
+*.tif
+*.tiff
+*.wav
+*.webm
+*.webp
+*.wmv
+
+# Generated files
+target/
+__pycache__/
+*.py[cod]
